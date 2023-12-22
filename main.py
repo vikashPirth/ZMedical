@@ -4,10 +4,10 @@ appearence_prompt = "How is the patient's general apperance?\n 1. Normal appeear
 
 
 def assess_eyes():
-    print("1")
+    print("Ask the question for eyes")
 
 def assess_skin():
-    print("2")
+    print("ask the question for skin")
 
 def list_patients():
     print("List all patients and diagnosis")
