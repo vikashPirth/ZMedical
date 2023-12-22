@@ -1,6 +1,6 @@
 welcome_prompt = "Welcome Doctor! What would you like to do today?\n - To List all patients press 1. \n To run a diagnosis press 2.\n To press quit q.\n"
 name_prompt  = "What is the patient's name?"
-appearence_prompt = "How is the patient's general apperance?\n 1. Normal appeearnce\n 2. Irritable or lethargic\n"
+appearence_prompt = "How is the patient's general apperance?\n  1. Normal appeearnce\n 2. Irritable or lethargic\n"
 
 
 def assess_eyes():
